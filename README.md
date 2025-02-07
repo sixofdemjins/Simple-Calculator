@@ -1,4 +1,3 @@
-![Simple-Calculator](https://github.com/user-attachments/assets/995b3a9b-4323-48ad-b4e6-89385fd32aa9)
 # Simple Calculator
 
 ## Description
@@ -17,3 +16,5 @@ To use the calculator, simply click the buttons to input numbers and operations.
 1. Clone the repository:
    ```bash
    git clone https://github.com/sixofdemjins/simple-calculator.git
+
+![Simple-Calculator](https://github.com/user-attachments/assets/995b3a9b-4323-48ad-b4e6-89385fd32aa9)
