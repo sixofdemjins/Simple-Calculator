@@ -1,3 +1,4 @@
+![Simple-Calculator](https://github.com/user-attachments/assets/995b3a9b-4323-48ad-b4e6-89385fd32aa9)
 # Simple Calculator
 
 ## Description
